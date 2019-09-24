@@ -1,7 +1,11 @@
 #Instructions
-#1 - Run the DAG as it is first, and observe the Airflow UI
-#2 - Next, open up the DAG and add the copy and load tasks as directed in the TODOs
-#3 - Reload the Airflow UI and run the DAG once more, observing the Airflow UI
+#1 - Revisit our bikeshare traffic 
+#2 - Update our DAG with
+#  a - @monthly schedule_interval
+#  b - max_active_runs of 1
+#  c - start_date of 2018/01/01
+#  d - end_date of 2018/02/01
+# Use Airflow’s backfill capabilities to analyze our trip data on a monthly basis over 2 historical runs
 
 import datetime
 import logging
@@ -38,11 +42,14 @@ def load_station_data_to_redshift(*args, **kwargs):
 
 
 dag = DAG(
-    'lesson2.exercise1',
-    start_date=datetime.datetime(2019, 1, 1, 0, 0, 0), 
-    end_date = datetime.datetime(2019, 12, 1, 0, 0, 0),
-    schedule_interval = '@monthly',
-    max_active_runs = 1
+    'lesson2.exercise2',
+    start_date=datetime.datetime(2018, 1, 1, 0, 0, 0, 0),
+    # TODO: Set the end date to February first
+    end_date=datetime.datetime(2018, 2, 1, 0, 0, 0, 0),
+    # TODO: Set the schedule to be monthly
+    schedule_interval='@monthly',
+    # TODO: set the number of max active runs to 1
+    max_active_runs=1
 )
 
 create_trips_table = PostgresOperator(
@@ -56,6 +63,7 @@ copy_trips_task = PythonOperator(
     task_id='load_trips_from_s3_to_redshift',
     dag=dag,
     python_callable=load_trip_data_to_redshift,
+    provide_context=True,
 )
 
 create_stations_table = PostgresOperator(
@@ -71,20 +79,5 @@ copy_stations_task = PythonOperator(
     python_callable=load_station_data_to_redshift,
 )
 
-location_traffic_task = PostgresOperator(
-    task_id = 'calculate_location_traffic',
-    # python_callable = calculate_location_traffic,
-    postgres_conn_id = 'redshift',
-    sql.sql.LOCATION_TRAFFIC_SQL
-    dag = dag)
-
 create_trips_table >> copy_trips_task
-# TODO: First, load the Airflow UI and run this DAG once.
-# TODO: Next, configure the task ordering for stations data to have the create run before
-#       the copy. Then, run this DAG once more and inspect the run history. to see the
-#       differences.
-create_trip_table >> copy_trips_task
-copy_trips_task >> location_traffic_task
-
-
-
+create_stations_table >> copy_stations_task
