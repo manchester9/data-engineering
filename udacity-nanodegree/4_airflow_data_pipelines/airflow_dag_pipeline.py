@@ -1,5 +1,7 @@
 import datetime
 import logging
+import pandas as pd 
+import numpy as np
 
 from airflow import DAG
 from airflow.operators.python_operator import python_operator
