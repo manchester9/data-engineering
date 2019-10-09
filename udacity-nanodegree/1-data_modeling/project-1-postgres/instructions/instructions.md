@@ -3,7 +3,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 They'd like a data engineer to create a Postgres database with tables designed to optimize queries on song play analysis, and bring you on the project. Your role is to create a database schema and ETL pipeline for this analysis. You'll be able to test your database and ETL pipeline by running queries given to you by the analytics team from Sparkify and compare your results with their expected results.
 
-Project Description
+# Project Description
 In this project, you'll apply what you've learned on data modeling with Postgres and build an ETL pipeline using Python. To complete the project, you will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 
 # Project datasets: 
@@ -97,3 +97,30 @@ sql_queries.py
 etl.py | etl.ipynb
 create_tables.py
 test.ipynb
+
+# RUBRIC
+CRITERIA
+MEETS SPECIFICATIONS
+
+## Table creation
+* Table creation script runs without errors: The script, create_tables.py, runs in the terminal without errors. The script successfully connects to the Sparkify database, drops any tables if they exist, and creates    the tables.
+
+* Fact and dimensional tables for a star schema are properly defined: CREATE statements in sql_queries.py specify all columns for each of the five tables with the right data types and conditions.Rubric
+
+## ETL
+* ETL script runs without errors: The script, etl.py, runs in the terminal without errors. The script connects to the Sparkify database, extracts and processes the log_data and song_data, and loads data into the       five tables.
+
+* Since this is a subset of the much larger dataset, the solution dataset will only have 1 row match that will populate a songid and an artistid in the fact table. Those are the only 2 values that the query in the     sql_queries.py will return. The rest will be none values.
+
+  ETL script properly processes transformations in Python: INSERT statements are correctly written for each tables and handles existing records where appropriate. songs and artists tables are used to retrieve the correct information for the songplays INSERT.
+
+## CODE QUALITY
+
+* The project shows proper use of documentation. The README file includes a summary of the project, how to run the Python scripts, and an explanation of the files in the repository. Comments are used effectively and   each function has a docstring.
+
+* The project code is clean and modular: Scripts have an intuitive, easy-to-follow structure with code separated into logical functions. Naming for variables and functions follows the PEP8 style guidelines.
+
+## STAND OUT
+* Insert data using the COPY command to bulk insert log files instead of using INSERT on one row at a time
+* Add data quality checks
+* Create a dashboard for analytic queries on your new database
