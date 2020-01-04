@@ -1,0 +1,3 @@
+roland 41 elite_ai_programmer
+daisy 72 mother
+rudy 75 father
