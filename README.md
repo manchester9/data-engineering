@@ -1,4 +1,4 @@
-<p align="center"><img width=65% src="images/data-engineer.jpg"></p>
+<p align="center"><img width=55% src="images/data-engineer.jpg"></p>
 
 <p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:20pt; font-weight:bold; font-weight: 900">DATA ENGINEERING 
 </p>
