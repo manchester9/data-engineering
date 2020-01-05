@@ -22,7 +22,7 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
    * TBD
 4. [Cloud-computing]()
    * TBD
-5. [high-performance-computing]()
+5. [High-performance-computing]()
    * TBD
 6. [Softawre-engineering](https://github.com/manchester9/software-engineering)
    * TBD
