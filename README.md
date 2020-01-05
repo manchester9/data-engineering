@@ -3,6 +3,9 @@
 <p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:20pt; font-weight:bold; font-weight: 900">DATA ENGINEERING 
 </p>
 
+![Status](images/status-work-in-progress.png) ![Contributions Welcome](https://camo.githubusercontent.com/72f84692f9f89555c176bb9e0eca9cf08d97fec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d6f72616e67652e737667)
+
+
 ## **Overview**
 This repo contains books, courses, certifications, and nanodegrees that have helped me in my journey towards becoming an AI Engineer. Organization of content helps me to document my learning experience along the way. If the organization of content helps someone else in their journey then even better. Individual learnings of each of the below sections are within their respective README files 
 
