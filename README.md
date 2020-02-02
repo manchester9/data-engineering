@@ -31,11 +31,12 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
    * TBD
 7. [ML deployment]()
    * TBD
-
+8. [Coding best practices Python: Datacamp]()
 
 ### **Certifications**
 1. [DataQuest data egnineering path]()
 2. [Big data engineering: Jesse Anderson]()
+3. [Data engineering track: Datacamp]()
 
 
 ### **Nanodegrees**
