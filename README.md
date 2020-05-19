@@ -15,7 +15,7 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
 1. [Designing data intensive applications: Martin Klepmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D)
 2. [Building microservices: Designing fine grained systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems-ebook/dp/B00T3N7XB4/ref=pd_sim_351_1/146-4347283-5150106?_encoding=UTF8&pd_rd_i=B00T3N7XB4&pd_rd_r=e8f1b4c7-6da3-4589-8fbd-40923ccb02cb&pd_rd_w=KwEGh&pd_rd_wg=Ohg1L&pf_rd_p=04d27813-a1f2-4e7b-a32b-b5ab374ce3f9&pf_rd_r=RA2NB737AZZ3J3AEG2S8&psc=1&refRID=RA2NB737AZZ3J3AEG2S8)
 3. [Learning computer architecture with Rasberry Pi](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi-ebook/dp/B01KW9E28Y/ref=sr_1_8?dchild=1&keywords=computer+architecture&qid=1589894097&sr=8-8)
-
+4. [Clean architecure](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/ref=sr_1_2?dchild=1&keywords=computer+architecture+with+diagrams&qid=1589894631&sr=8-2)
 
 ### **Courses**
 1. [Data-manipulation]()
