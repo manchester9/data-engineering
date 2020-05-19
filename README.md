@@ -18,6 +18,9 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
 4. [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=pd_sim_351_2/144-0722830-1274514?_encoding=UTF8&pd_rd_i=B001GSTOAM&pd_rd_r=87d22fc3-8598-4fff-8d33-3ae68827273a&pd_rd_w=HqIaJ&pd_rd_wg=uo04W&pf_rd_p=6f740e39-0c25-4380-8008-7a4156dab959&pf_rd_r=776TVRZ007C1X0X75F5V&psc=1&refRID=776TVRZ007C1X0X75F5V)
 4. [Clean architecure](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/ref=sr_1_2?dchild=1&keywords=computer+architecture+with+diagrams&qid=1589894631&sr=8-2)
 5. [Working effectively with legacy code](https://www.amazon.com/gp/product/B005OYHF0A?notRedirectToSDP=1&ref_=dbs_mng_calw_0&storeType=ebooks)
+6. [The pragmatic programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=pd_sim_351_4/144-0722830-1274514?_encoding=UTF8&pd_rd_i=B07VRS84D1&pd_rd_r=e702a12c-5f28-4cde-81fe-3c1599f6cdcc&pd_rd_w=kNNtK&pd_rd_wg=ldxJI&pf_rd_p=6f740e39-0c25-4380-8008-7a4156dab959&pf_rd_r=J488XZFG5EF0YPHDKANE&psc=1&refRID=J488XZFG5EF0YPHDKANE)
+7. [Code Complete](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=pd_sim_351_3/144-0722830-1274514?_encoding=UTF8&pd_rd_i=B00JDMPOSY&pd_rd_r=e702a12c-5f28-4cde-81fe-3c1599f6cdcc&pd_rd_w=kNNtK&pd_rd_wg=ldxJI&pf_rd_p=6f740e39-0c25-4380-8008-7a4156dab959&pf_rd_r=J488XZFG5EF0YPHDKANE&psc=1&refRID=J488XZFG5EF0YPHDKANE)
+
 
 ### **Courses**
 1. [Data-manipulation]()
@@ -36,10 +39,12 @@ This repo contains books, courses, certifications, and nanodegrees that have hel
    * TBD
 8. [Coding best practices Python: Datacamp]()
 
+
 ### **Certifications**
-1. [DataQuest data egnineering path]()
-2. [Big data engineering: Jesse Anderson]()
-3. [Data engineering track: Datacamp]()
+1. [Hudson data labs]()
+2. [DataQuest data egnineering path]()
+3. [Big data engineering: Jesse Anderson]()
+4. [Data engineering track: Datacamp]()
 
 
 ### **Nanodegrees**
