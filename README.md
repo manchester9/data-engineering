@@ -7,7 +7,7 @@
 
 
 ## **Overview**
-This repo contains books, courses, certifications, and nanodegrees that have helped me in my journey towards becoming an AI Engineer. Organization of content helps me to document my learning experience along the way. If the organization of content helps someone else in their journey then even better. Individual learnings of each of the below sections are within their respective README files. Lastly, I would like to say that in my personal opinon based on experience I look at data engineering that uses knowledge from some of these categories and each have their own learning paths: ML system design, distributed computing, cloud computing, databases, pipeline architecture (CI/CD), front-end design and computer architecture
+This repo contains books, courses, certifications, websites, and nanodegrees that have helped me in my journey towards becoming an AI Engineer. Organization of content helps me to document my learning experience along the way. If the organization of content helps someone else in their journey then even better. Individual learnings of each of the below sections are within their respective README files. Lastly, I would like to say that in my personal opinon based on experience I look at data engineering that uses knowledge from some of these categories and each have their own learning paths: ML system design, distributed computing, cloud computing, databases, pipeline architecture (CI/CD), front-end design and computer architecture
 
 # **Table Of Contents**
 
