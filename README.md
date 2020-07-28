@@ -38,6 +38,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 7. [ML deployment]()
    * TBD
 8. [Coding best practices Python: Datacamp]()
+   * TBD
 
 
 ### **Certifications**
