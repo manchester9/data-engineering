@@ -46,6 +46,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 2. [DataQuest data egnineering path]()
 3. [Big data engineering: Jesse Anderson]()
 4. [Data engineering track: Datacamp]()
+5. [Insights data engineering]()
 
 
 ### **Nanodegrees**
