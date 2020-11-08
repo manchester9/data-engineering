@@ -41,6 +41,8 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 9. [Ensemble methods]()
    * TBD
+10. [Machine learning pipelines]()
+   * TBD
 
 
 ### **Certifications**
