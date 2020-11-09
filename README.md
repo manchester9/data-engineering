@@ -43,6 +43,8 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 10. [Machine learning pipelines]()
    * TBD
+11. [Deep learning pipelines]()
+   * TBD
 
 
 ### **Certifications**
