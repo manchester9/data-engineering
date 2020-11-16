@@ -47,6 +47,8 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 12. [Machine learning engineering]()
    * TBD
+13. [Reinforcement Learning]()
+   * TBD
 
 
 ### **Certifications**
