@@ -31,7 +31,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 4. [Cloud-computing]()
    * TBD
-5. [High-performance-computing]()
+5. [High-performance-computing: HPC]()
    * TBD
 6. [Softawre-engineering](https://github.com/manchester9/software-engineering)
    * TBD
