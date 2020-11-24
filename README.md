@@ -67,7 +67,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 2. [Data engineering: Insights]()
 3. [Data engineering: Data quest]()
 4. [Data engineering: Springboard]()
-5. [Streaming data: Udacity]()
+5. [Data streaming: Udacity]()
 
 
 ### **Notes**
