@@ -69,6 +69,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 4. [Data engineering: Springboard]()
 5. [Data streaming: Udacity]()
 6. [Data structures and algorithms: Udacity]()
+7. [Machine learning engineering with MSFT]()
 
 
 ### **Notes**
