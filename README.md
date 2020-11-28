@@ -63,13 +63,12 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 
 
 ### **Nanodegrees**
-1. [Data engineer: Udacity Microsoft Azure]()
-2. [Data engineering: Insights]()
-3. [Data engineering: Data quest]()
-4. [Data engineering: Springboard]()
-5. [Data streaming: Udacity]()
-6. [Data structures and algorithms: Udacity]()
-7. [Machine learning engineering with MSFT]()
+1. [Data engineering: Insights]()
+2. [Data engineering: Data quest]()
+3. [Data engineering: Springboard]()
+4. [Data streaming: Udacity]()
+5. [Data structures and algorithms: Udacity]()
+6. [Machine learning engineering with MSFT]()
 
 
 ### **Notes**
