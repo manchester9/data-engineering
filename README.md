@@ -23,7 +23,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 
 
 ### **Courses**
-1. [Data-manipulation]()
+1. [Data-quest]()
    * TBD
 2. [Databases-datawarehousing]()
    * TBD
