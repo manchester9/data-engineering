@@ -54,7 +54,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
 
 
 ### **Certifications**
-1. [Hudson data labs: Big data engineering]()
+1. [Hudson data labs: Big data engineering with Hadoop]()
 2. [DataQuest data egnineering path]()
 3. [Big data engineering: Jesse Anderson]()
 4. [Data engineering track: Datacamp]()
