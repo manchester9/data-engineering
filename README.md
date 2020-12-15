@@ -39,7 +39,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 8. [Coding best practices Python: Datacamp]()
    * TBD
-9. [Ensemble methods for machine learning]()
+9. [Ensemble methods for machine learning applications]()
    * TBD
 10. [Machine learning pipelines]()
    * TBD
