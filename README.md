@@ -41,7 +41,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 9. [Ensemble methods for machine learning applications]()
    * TBD
-10. [Machine learning pipelines]()
+10. [Machine learning pipelines including MLOps]()
    * TBD
 11. [Deep learning pipelines]()
    * TBD
