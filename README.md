@@ -43,7 +43,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 10. [Machine learning pipelines including MLOps]()
    * TBD
-11. [Deep learning pipelines]()
+11. [Deep learning pipelines MSFT]()
    * TBD
 12. [Machine learning engineering]()
    * TBD
