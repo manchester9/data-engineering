@@ -45,7 +45,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 11. [Deep learning pipelines MSFT Azure]()
    * TBD
-12. [Machine learning engineering]()
+12. [Machine learning engineering pipelines]()
    * TBD
 13. [Reinforcement Learning Udacity Engineering]()
    * TBD
