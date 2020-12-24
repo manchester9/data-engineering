@@ -35,7 +35,7 @@ This repo contains books, courses, certifications, websites, and nanodegrees tha
    * TBD
 6. [Softawre-engineering](https://github.com/manchester9/software-engineering)
    * TBD
-7. [ML deployment Udemy: Data engineering]()
+7. [ML deployment Udemy: Data engineering deployment]()
    * TBD
 8. [Coding best practices Python: Datacamp]()
    * TBD
